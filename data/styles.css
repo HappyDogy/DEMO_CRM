@@ -11,6 +11,8 @@
 }
 .ellipse {
 }
+.image {
+}
 .placeholder {
 }
 .button {
@@ -30,6 +32,10 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .list_box {
   color:#000000;
   text-align:left;
@@ -37,7 +43,12 @@
 .checkbox {
   text-align:left;
 }
+.tree_node {
+  text-align:left;
+}
 .table_cell {
+}
+.menu_item {
 }
 .font_awesome_5_pro {
   font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro';
@@ -292,10 +303,6 @@
 ._复选框1 {
   text-align:left;
 }
-.droplist {
-  color:#000000;
-  text-align:left;
-}
 .grouped-buttons {
   font-family:'Roboto Regular', 'Roboto';
   font-weight:500;
@@ -304,9 +311,6 @@
   color:#FFFFFF;
   text-align:center;
   line-height:16px;
-}
-.tree_node {
-  text-align:left;
 }
 .basicbutton1 {
   font-family:'Roboto Regular', 'Roboto';
@@ -319,8 +323,6 @@
 ._水平线3 {
 }
 .box_3 {
-}
-.image {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
